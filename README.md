@@ -4,6 +4,7 @@
 
 Google Gemini API와 상호작용하기 위한 독립 실행형(Standalone) 로컬 웹 애플리케이션입니다. 모든 대화 기록과 설정은 사용자의 브라우저(LocalStorage)에 저장되며, Node.js 기반의 백엔드 프록시를 통해 API 키를 안전하게 관리합니다.
 
+[![Video Label](https://youtu.be/IqjXARzz97Q?si=ZH9Mdo6f3iLW9lX9/0.jpg)](https://youtu.be/IqjXARzz97Q?si=ZH9Mdo6f3iLW9lX9)
 
 **주요 목표:**
 *   **데이터 주권:** 모든 사용자 데이터를 외부 서버 없이 로컬 환경에 저장합니다.
